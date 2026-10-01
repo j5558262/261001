@@ -460,7 +460,7 @@ EDGE_HOSTS = [
     h.strip()
     for h in os.environ.get(
         "EDGE_HOSTS",
-        "cf.qq.ms:443,cf.xreak.top:443,cdn.7zz.cn:443,egov.uscis.gov:443，tt.78607323.xyz:443,p.etime.vip:443,baota.us.kg:443,cdn.ddeed.de:443,www.leics.police.uk:443,img.css.sd:443,openai.com:443,aqua-aria.company:443,cnllm.com:443,coreweave.com:443,wppaunz.com:443,www.gov.il:443,versantstore.pearson.com:443,kickstarter.com:443,staticdelivery.nexusmods.com:443,vps.cheng2001.top:443,www.shopify.com:443,www.broadcom.com:443,bbs.alipansou.com:443,securecircle.com:443,store.ubi.com:443,01-qq.com:443,saas.sin.fan:443,
+        "cf.qq.ms:443,cf.xreak.top:443,cdn.7zz.cn:443,egov.uscis.gov:443,tt.78607323.xyz:443,p.etime.vip:443,baota.us.kg:443,cdn.ddeed.de:443,www.leics.police.uk:443,img.css.sd:443,openai.com:443,aqua-aria.company:443,cnllm.com:443,coreweave.com:443,wppaunz.com:443,www.gov.il:443,versantstore.pearson.com:443,kickstarter.com:443,staticdelivery.nexusmods.com:443,vps.cheng2001.top:443,www.shopify.com:443,www.broadcom.com:443,bbs.alipansou.com:443,securecircle.com:443,store.ubi.com:443,01-qq.com:443,saas.sin.fan:443,
 224322.xyz:443,funko.com:443,d.lma.de5.net:443,www.vastnovel.com:443,cf-cname.xingpingcn.top:443,markmonitor.com:443,academy.7shifts.com:443,www.crazygames.fr:443,prizepicks.com:443,www.sage.com:443,www.akasantech.com:443,
 53.fs1.hubspotusercontent-na1.net:443,m.iyf.tv:443,www.bangbenjiaju.com:443,01-cctv.com:443,www.vmware.com:443,www.giannidelprete.it:443,www.galgamex.net:443,mail.notion.com:443",
         "linear.app:443,www.bis.gov:443,cdn.204910.best:443,www.xflash.vip:443,www.mlkj888.com:443,www.mc.js.cool:443,spring.io:443,stores.staples.com:443",
